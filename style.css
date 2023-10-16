@@ -1,0 +1,39 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline; 
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.bold {
+    font-weight: bold;
+    color: green;
+}
+
+.part {
+    text-align: center;
+}
+
+.color {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.size-color {
+    color: goldenrod;
+    font-size: 70px;
+}
+
+.center {
+    text-align: justify;
+    font-size: 20px;
+}
